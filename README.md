@@ -42,21 +42,16 @@ Installation steps will be provided once the system is stable. In the meantime, 
 
 ---
 
-## **Contributing** 🤝
-
-We welcome contributions! If you encounter any issues or have suggestions for improvements, feel free to fork the project and submit a pull request. Contributions are vital to enhancing this tool!
-
----
-
 ## **Contact** 📬
 
-If you have any questions or suggestions, feel free to reach out through the repository issues section or by contacting the project maintainers.
+For any questions or suggestions, feel free to reach out via the project’s issues section.
 
 ---
 
 ## **License** 📄
 
 This project is licensed under the **MIT License**. You can freely use, modify, and distribute this project as per the terms of the MIT License.
+
 
 ---
 
